@@ -1,0 +1,17 @@
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\bin\Debug\net6.0-windows\Terserah_banget.exe
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\bin\Debug\net6.0-windows\Terserah_banget.deps.json
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\bin\Debug\net6.0-windows\Terserah_banget.runtimeconfig.json
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\bin\Debug\net6.0-windows\Terserah_banget.dll
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\bin\Debug\net6.0-windows\Terserah_banget.pdb
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\obj\Debug\net6.0-windows\Terserah_banget.csproj.AssemblyReference.cache
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\obj\Debug\net6.0-windows\Terserah_banget.Form1.resources
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\obj\Debug\net6.0-windows\Terserah_banget.csproj.GenerateResource.cache
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\obj\Debug\net6.0-windows\Terserah_banget.GeneratedMSBuildEditorConfig.editorconfig
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\obj\Debug\net6.0-windows\Terserah_banget.AssemblyInfoInputs.cache
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\obj\Debug\net6.0-windows\Terserah_banget.AssemblyInfo.cs
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\obj\Debug\net6.0-windows\Terserah_banget.csproj.CoreCompileInputs.cache
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\obj\Debug\net6.0-windows\Terserah_banget.dll
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\obj\Debug\net6.0-windows\refint\Terserah_banget.dll
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\obj\Debug\net6.0-windows\Terserah_banget.pdb
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\obj\Debug\net6.0-windows\Terserah_banget.genruntimeconfig.cache
+E:\11 PPLG 5\PBT\Terserah_banget\Terserah_banget\obj\Debug\net6.0-windows\ref\Terserah_banget.dll
